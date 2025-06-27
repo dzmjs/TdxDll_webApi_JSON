@@ -1,13 +1,13 @@
 # TdxDll_webApi_JSON
 
-[English Version](./README.md) | [ÖÐÎÄ°æ](./README_CN.md)
+[English Version](./README.md) | [ä¸­æ–‡ç‰ˆ](./README_CN.md)
 
-±¾ÏîÄ¿»ùÓÚÍ¨´ïÐÅ¿Í»§¶Ë£¬µ÷ÓÃdll£¬·¢ËÍgetÇëÇó£¬»ñÈ¡json²¢½âÎöjson¡£ 
-## ½éÉÜ
-»ùÓÚÆäËûÈí¼þ·ÖÎöµÃµ½µÄ²øÂÛ³É¹ûÊý¾Ý¿â±í£¬Óëpython¿ª·¢µÄweb server£¬¼¯³Éµ½Í¨´ïÐÅ£¬Ê¹ÓÃdllÍØÕ¹µÄ·½Ê½£¬·¢ËÍhttpÇëÇó£¬»ñµÃjson¸ñÊ½Êý¾Ý£¬È»ºó½âÎö£¬ÔÙÔÚÍ¨´ïÐÅÒ³ÃækÏßÍ¼ÉÏ»æÖÆ³ö²øÂÛÏß¶ÎÓëÂòÂôµã¡£ 
-## Á÷³Ì
-- Í¨´ïÐÅ¼¯³É¸ÃÏîÄ¿±àÒëµÄdll£¬Ê¹ÓÃ¹«Ê½µ÷ÓÃdllÄÚ²¿µÄ·½·¨£» 
-- dll·¢ËÍhttpÇëÇó£¬µÃµ½json¸öÊýÊý¾Ý£» 
-- ½âÎöjsonÊý¾Ý£¬±ä³É½á¹¹ÌåÊý×é£» 
-- ÈÕÆÚ/Ê±¼äÆ¥Åä£¬·µ»ØÊä³ö¸ñÊ½£¨ÉÏÕÇÏÂµøµÄÆðµã£¬ÂòÂôµãÀàÐÍ£©£» 
-- Í¨´ïÐÅ¹«Ê½´¦Àí·µ»ØµÄ½á¹û£¬»æÖÆÏß¶Î²¢±ê×¢ÂòÂôµã¡£ 
+æœ¬é¡¹ç›®åŸºäºŽé€šè¾¾ä¿¡å®¢æˆ·ç«¯ï¼Œè°ƒç”¨dllï¼Œå‘é€getè¯·æ±‚ï¼ŒèŽ·å–jsonå¹¶è§£æžjsonã€‚ 
+## ä»‹ç»
+åŸºäºŽå…¶ä»–è½¯ä»¶åˆ†æžå¾—åˆ°çš„ç¼ è®ºæˆæžœæ•°æ®åº“è¡¨ï¼Œä¸Žpythonå¼€å‘çš„web serverï¼Œé›†æˆåˆ°é€šè¾¾ä¿¡ï¼Œä½¿ç”¨dllæ‹“å±•çš„æ–¹å¼ï¼Œå‘é€httpè¯·æ±‚ï¼ŒèŽ·å¾—jsonæ ¼å¼æ•°æ®ï¼Œç„¶åŽè§£æžï¼Œå†åœ¨é€šè¾¾ä¿¡é¡µé¢kçº¿å›¾ä¸Šç»˜åˆ¶å‡ºç¼ è®ºçº¿æ®µä¸Žä¹°å–ç‚¹ã€‚ 
+## æµç¨‹
+- é€šè¾¾ä¿¡é›†æˆè¯¥é¡¹ç›®ç¼–è¯‘çš„dllï¼Œä½¿ç”¨å…¬å¼è°ƒç”¨dllå†…éƒ¨çš„æ–¹æ³•ï¼› 
+- dllå‘é€httpè¯·æ±‚ï¼Œå¾—åˆ°jsonä¸ªæ•°æ•°æ®ï¼› 
+- è§£æžjsonæ•°æ®ï¼Œå˜æˆç»“æž„ä½“æ•°ç»„ï¼› 
+- æ—¥æœŸ/æ—¶é—´åŒ¹é…ï¼Œè¿”å›žè¾“å‡ºæ ¼å¼ï¼ˆä¸Šæ¶¨ä¸‹è·Œçš„èµ·ç‚¹ï¼Œä¹°å–ç‚¹ç±»åž‹ï¼‰ï¼› 
+- é€šè¾¾ä¿¡å…¬å¼å¤„ç†è¿”å›žçš„ç»“æžœï¼Œç»˜åˆ¶çº¿æ®µå¹¶æ ‡æ³¨ä¹°å–ç‚¹ã€‚ 
